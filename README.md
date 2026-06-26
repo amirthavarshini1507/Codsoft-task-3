@@ -35,7 +35,7 @@ ___
 🛠️ Technology Stack
 
 🐍 Python
- obs studio
+👩🏻‍💻 obs studio
 💻 VS Code
 📂 Git & GitHub
 
