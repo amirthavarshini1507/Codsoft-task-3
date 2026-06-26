@@ -4,18 +4,21 @@
 �
 
 ✨ Turn Images into Intelligent Descriptions ✨
+____
 
 📌 Overview
 
 This project is designed to generate natural language captions from images. It combines Computer Vision and Natural Language Processing (NLP) to understand visual content and describe it in simple, human-readable sentences.
 
 The goal of this project is to demonstrate how Artificial Intelligence can bridge the gap between images and language.
+___
 
 📖 About the Project
 
 The AI Image Captioning System is an advanced Deep Learning application that combines Computer Vision 👁️ and Natural Language Processing 🧠 to generate meaningful captions from images.
 
 Instead of simply recognizing objects, the system understands the visual content and creates natural language descriptions similar to how humans describe an image.
+___
 
 🌟 Features
 
@@ -27,6 +30,7 @@ Instead of simply recognizing objects, the system understands the visual content
 📚 Easy to Understand
 💻 Beginner Friendly
 📈 Scalable for Real-world Applications
+___
 
 🛠️ Technology Stack
 
@@ -35,6 +39,7 @@ Instead of simply recognizing objects, the system understands the visual content
 💻 VS Code
 📂 Git & GitHub
 
+___
 
 🎯 Applications
 
@@ -52,6 +57,9 @@ Instead of simply recognizing objects, the system understands the visual content
 🤖 Generate the caption
 📝 Display the final result
 
+___
+
+
 🚀 Future Scope
 
 🌍 Multi-language Captions
@@ -61,7 +69,11 @@ Instead of simply recognizing objects, the system understands the visual content
 🎥 Live Camera Captioning
 🧠 Transformer-Based Models
 
+___
+
+
 ⭐ If you like this project, don't forget to Star the repository!
 ❤️ Thank You for Visiting ❤️
 Happy Coding! 🚀
+___
 
